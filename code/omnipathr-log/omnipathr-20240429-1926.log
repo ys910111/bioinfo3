@@ -1,0 +1,42 @@
+[2024-04-29 19:26:35] [INFO]    [OmnipathR] Welcome to OmnipathR!
+[2024-04-29 19:26:35] [INFO]    [OmnipathR] Setting up new cache directory `/Users/yooeun/Library/Caches/OmnipathR`.
+[2024-04-29 19:26:35] [INFO]    [OmnipathR] Initialized cache: `/Users/yooeun/Library/Caches/OmnipathR`.
+[2024-04-29 19:26:48] [INFO]    [OmnipathR] Cache record does not exist: `https://omnipathdb.org/interactions?genesymbols=yes&datasets=omnipath&organisms=9606&fields=sources,references,curation_effort&license=academic`
+[2024-04-29 19:26:48] [INFO]    [OmnipathR] Retrieving URL: `https://omnipathdb.org/interactions?genesymbols=yes&datasets=omnipath&organisms=9606&fields=sources,references,curation_effort&license=academic`
+[2024-04-29 19:26:48] [TRACE]   [OmnipathR] Attempt 1/3: `https://omnipathdb.org/interactions?genesymbols=yes&datasets=omnipath&organisms=9606&fields=sources,references,curation_effort&license=academic`
+[2024-04-29 19:26:51] [INFO]    [OmnipathR] Cache item `a7b21d9d80a3837a50268df16d168128fc1c6ede` version 1: status changed from `unknown` to `started`.
+[2024-04-29 19:26:51] [TRACE]   [OmnipathR] Exporting object to RDS: `/Users/yooeun/Library/Caches/OmnipathR/a7b21d9d80a3837a50268df16d168128fc1c6ede-1.rds`.
+[2024-04-29 19:26:51] [TRACE]   [OmnipathR] Exported RDS to `/Users/yooeun/Library/Caches/OmnipathR/a7b21d9d80a3837a50268df16d168128fc1c6ede-1.rds`.
+[2024-04-29 19:26:51] [INFO]    [OmnipathR] Download ready [key=a7b21d9d80a3837a50268df16d168128fc1c6ede, version=1]
+[2024-04-29 19:26:51] [INFO]    [OmnipathR] Cache item `a7b21d9d80a3837a50268df16d168128fc1c6ede` version 1: status changed from `started` to `ready`.
+[2024-04-29 19:26:53] [SUCCESS] [OmnipathR] Downloaded 81529 interactions.
+[2024-04-29 19:27:03] [TRACE]   [OmnipathR] Loaded data from RDS `/Users/yooeun/Library/Caches/OmnipathR/a7b21d9d80a3837a50268df16d168128fc1c6ede-1.rds`.
+[2024-04-29 19:27:03] [INFO]    [OmnipathR] Loaded from cache: `https://omnipathdb.org/interactions?genesymbols=yes&datasets=omnipath&organisms=9606&fields=sources,references,curation_effort&license=academic`
+[2024-04-29 19:27:05] [SUCCESS] [OmnipathR] Loaded 81529 interactions from cache.
+[2024-04-29 19:55:42] [INFO]    [OmnipathR] Cache record does not exist: `https://omnipathdb.org/interactions?genesymbols=yes&datasets=collectri,dorothea,kinaseextra,ligrecextra,lncrna_mrna,mirnatarget,omnipath,pathwayextra,small_molecule,tf_mirna,tf_target,tfregulons&organisms=9606&dorothea_levels=A,B&fields=type,dorothea_level,sources,references,curation_effort&license=academic`
+[2024-04-29 19:55:42] [INFO]    [OmnipathR] Retrieving URL: `https://omnipathdb.org/interactions?genesymbols=yes&datasets=collectri,dorothea,kinaseextra,ligrecextra,lncrna_mrna,mirnatarget,omnipath,pathwayextra,small_molecule,tf_mirna,tf_target,tfregulons&organisms=9606&dorothea_levels=A,B&fields=type,dorothea_level,sources,references,curation_effort&license=academic`
+[2024-04-29 19:55:42] [TRACE]   [OmnipathR] Attempt 1/3: `https://omnipathdb.org/interactions?genesymbols=yes&datasets=collectri,dorothea,kinaseextra,ligrecextra,lncrna_mrna,mirnatarget,omnipath,pathwayextra,small_molecule,tf_mirna,tf_target,tfregulons&organisms=9606&dorothea_levels=A,B&fields=type,dorothea_level,sources,references,curation_effort&license=academic`
+[2024-04-29 19:55:46] [INFO]    [OmnipathR] Cache item `832ce27219b0249204eeffdfe9218a33b1cc0f35` version 1: status changed from `unknown` to `started`.
+[2024-04-29 19:55:46] [TRACE]   [OmnipathR] Exporting object to RDS: `/Users/yooeun/Library/Caches/OmnipathR/832ce27219b0249204eeffdfe9218a33b1cc0f35-1.rds`.
+[2024-04-29 19:55:47] [TRACE]   [OmnipathR] Exported RDS to `/Users/yooeun/Library/Caches/OmnipathR/832ce27219b0249204eeffdfe9218a33b1cc0f35-1.rds`.
+[2024-04-29 19:55:47] [INFO]    [OmnipathR] Download ready [key=832ce27219b0249204eeffdfe9218a33b1cc0f35, version=1]
+[2024-04-29 19:55:47] [INFO]    [OmnipathR] Cache item `832ce27219b0249204eeffdfe9218a33b1cc0f35` version 1: status changed from `started` to `ready`.
+[2024-04-29 19:55:53] [SUCCESS] [OmnipathR] Downloaded 282504 interactions.
+[2024-04-30 20:01:07] [INFO]    [OmnipathR] Cache record does not exist: `https://omnipathdb.org/interactions?genesymbols=yes&datasets=collectri,dorothea,kinaseextra,ligrecextra,lncrna_mrna,mirnatarget,omnipath,pathwayextra,small_molecule,tf_mirna,tf_target,tfregulons&organisms=9606&dorothea_levels=A,B&fields=type,dorothea_level,sources,references,curation_effort&directed=no&license=academic`
+[2024-04-30 20:01:07] [INFO]    [OmnipathR] Retrieving URL: `https://omnipathdb.org/interactions?genesymbols=yes&datasets=collectri,dorothea,kinaseextra,ligrecextra,lncrna_mrna,mirnatarget,omnipath,pathwayextra,small_molecule,tf_mirna,tf_target,tfregulons&organisms=9606&dorothea_levels=A,B&fields=type,dorothea_level,sources,references,curation_effort&directed=no&license=academic`
+[2024-04-30 20:01:07] [TRACE]   [OmnipathR] Attempt 1/3: `https://omnipathdb.org/interactions?genesymbols=yes&datasets=collectri,dorothea,kinaseextra,ligrecextra,lncrna_mrna,mirnatarget,omnipath,pathwayextra,small_molecule,tf_mirna,tf_target,tfregulons&organisms=9606&dorothea_levels=A,B&fields=type,dorothea_level,sources,references,curation_effort&directed=no&license=academic`
+[2024-04-30 20:01:27] [INFO]    [OmnipathR] Cache item `7d82337d8aef942b418cc274e752419cff7e650c` version 1: status changed from `unknown` to `started`.
+[2024-04-30 20:01:27] [TRACE]   [OmnipathR] Exporting object to RDS: `/Users/yooeun/Library/Caches/OmnipathR/7d82337d8aef942b418cc274e752419cff7e650c-1.rds`.
+[2024-04-30 20:01:29] [TRACE]   [OmnipathR] Exported RDS to `/Users/yooeun/Library/Caches/OmnipathR/7d82337d8aef942b418cc274e752419cff7e650c-1.rds`.
+[2024-04-30 20:01:29] [INFO]    [OmnipathR] Download ready [key=7d82337d8aef942b418cc274e752419cff7e650c, version=1]
+[2024-04-30 20:01:29] [INFO]    [OmnipathR] Cache item `7d82337d8aef942b418cc274e752419cff7e650c` version 1: status changed from `started` to `ready`.
+[2024-04-30 20:01:35] [SUCCESS] [OmnipathR] Downloaded 308336 interactions.
+[2024-04-30 20:02:51] [INFO]    [OmnipathR] Cache record does not exist: `https://omnipathdb.org/interactions?genesymbols=yes&datasets=collectri,dorothea,kinaseextra,ligrecextra,lncrna_mrna,mirnatarget,omnipath,pathwayextra,small_molecule,tf_mirna,tf_target,tfregulons&organisms=9606&dorothea_levels=A,B,C,D&fields=type,dorothea_level,sources,references,curation_effort&directed=no&license=academic`
+[2024-04-30 20:02:51] [INFO]    [OmnipathR] Retrieving URL: `https://omnipathdb.org/interactions?genesymbols=yes&datasets=collectri,dorothea,kinaseextra,ligrecextra,lncrna_mrna,mirnatarget,omnipath,pathwayextra,small_molecule,tf_mirna,tf_target,tfregulons&organisms=9606&dorothea_levels=A,B,C,D&fields=type,dorothea_level,sources,references,curation_effort&directed=no&license=academic`
+[2024-04-30 20:02:51] [TRACE]   [OmnipathR] Attempt 1/3: `https://omnipathdb.org/interactions?genesymbols=yes&datasets=collectri,dorothea,kinaseextra,ligrecextra,lncrna_mrna,mirnatarget,omnipath,pathwayextra,small_molecule,tf_mirna,tf_target,tfregulons&organisms=9606&dorothea_levels=A,B,C,D&fields=type,dorothea_level,sources,references,curation_effort&directed=no&license=academic`
+[2024-04-30 20:03:22] [INFO]    [OmnipathR] Cache item `6d465c051e7e07885ce0633205a63dbf71c1b431` version 1: status changed from `unknown` to `started`.
+[2024-04-30 20:03:22] [TRACE]   [OmnipathR] Exporting object to RDS: `/Users/yooeun/Library/Caches/OmnipathR/6d465c051e7e07885ce0633205a63dbf71c1b431-1.rds`.
+[2024-04-30 20:03:24] [TRACE]   [OmnipathR] Exported RDS to `/Users/yooeun/Library/Caches/OmnipathR/6d465c051e7e07885ce0633205a63dbf71c1b431-1.rds`.
+[2024-04-30 20:03:24] [INFO]    [OmnipathR] Download ready [key=6d465c051e7e07885ce0633205a63dbf71c1b431, version=1]
+[2024-04-30 20:03:24] [INFO]    [OmnipathR] Cache item `6d465c051e7e07885ce0633205a63dbf71c1b431` version 1: status changed from `started` to `ready`.
+[2024-04-30 20:03:36] [SUCCESS] [OmnipathR] Downloaded 555289 interactions.

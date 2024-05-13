@@ -1,0 +1,12 @@
+[2024-04-16 04:10:49] [INFO]    [OmnipathR] Welcome to OmnipathR!
+[2024-04-16 04:10:49] [TRACE]   [OmnipathR] Reading JSON from `/home/yooeunkim_980629/.cache/OmnipathR/cache.json` (encoding: UTF-8).
+[2024-04-16 04:10:49] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-04-16 04:10:49] [INFO]    [OmnipathR] Initialized cache: `/home/yooeunkim_980629/.cache/OmnipathR`.
+[2024-04-16 04:10:49] [TRACE]   [OmnipathR] Reading JSON from `/home/local/kyeonghunjeong_920205/R_lib/OmnipathR/db/db_def.json` (encoding: UTF-8).
+[2024-04-16 04:10:49] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-04-16 04:10:49] [TRACE]   [OmnipathR] Reading JSON from `/home/local/kyeonghunjeong_920205/R_lib/OmnipathR/internal/magic_bytes.json` (encoding: UTF-8).
+[2024-04-16 04:10:49] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-04-16 04:10:49] [TRACE]   [OmnipathR] Reading JSON from `/home/local/kyeonghunjeong_920205/R_lib/OmnipathR/internal/urls.json` (encoding: UTF-8).
+[2024-04-16 04:10:49] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-04-16 04:10:49] [TRACE]   [OmnipathR] Reading JSON from `/home/local/kyeonghunjeong_920205/R_lib/OmnipathR/internal/id_types.json` (encoding: UTF-8).
+[2024-04-16 04:10:49] [TRACE]   [OmnipathR] JSON validation successful: TRUE

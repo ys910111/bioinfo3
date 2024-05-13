@@ -1,0 +1,20 @@
+[2024-04-14 13:51:54] [INFO]    [OmnipathR] Welcome to OmnipathR!
+[2024-04-14 13:51:54] [TRACE]   [OmnipathR] Reading JSON from `/home/yooeunkim_980629/.cache/OmnipathR/cache.json` (encoding: UTF-8).
+[2024-04-14 13:51:54] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-04-14 13:51:54] [INFO]    [OmnipathR] Initialized cache: `/home/yooeunkim_980629/.cache/OmnipathR`.
+[2024-04-14 13:51:54] [TRACE]   [OmnipathR] Reading JSON from `/home/local/kyeonghunjeong_920205/R_lib/OmnipathR/db/db_def.json` (encoding: UTF-8).
+[2024-04-14 13:51:54] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-04-14 13:51:54] [TRACE]   [OmnipathR] Reading JSON from `/home/local/kyeonghunjeong_920205/R_lib/OmnipathR/internal/magic_bytes.json` (encoding: UTF-8).
+[2024-04-14 13:51:54] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-04-14 13:51:54] [TRACE]   [OmnipathR] Reading JSON from `/home/local/kyeonghunjeong_920205/R_lib/OmnipathR/internal/urls.json` (encoding: UTF-8).
+[2024-04-14 13:51:54] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-04-14 13:51:54] [TRACE]   [OmnipathR] Reading JSON from `/home/local/kyeonghunjeong_920205/R_lib/OmnipathR/internal/id_types.json` (encoding: UTF-8).
+[2024-04-14 13:51:54] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-04-14 15:45:44] [TRACE]   [OmnipathR] Reading JSON from `https://omnipathdb.org/resources` (encoding: UTF-8).
+[2024-04-14 15:45:44] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-04-14 15:46:00] [TRACE]   [OmnipathR] Reading JSON from `https://omnipathdb.org/resources` (encoding: UTF-8).
+[2024-04-14 15:46:00] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-04-14 15:46:20] [TRACE]   [OmnipathR] Reading JSON from `https://omnipathdb.org/resources` (encoding: UTF-8).
+[2024-04-14 15:46:20] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-04-14 15:46:52] [TRACE]   [OmnipathR] Reading JSON from `https://omnipathdb.org/resources` (encoding: UTF-8).
+[2024-04-14 15:46:52] [TRACE]   [OmnipathR] JSON validation successful: TRUE
